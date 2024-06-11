@@ -1,4 +1,4 @@
-# Traffic Sign Detection using YOLOv8
+# Traffic Signs Detection using YOLOv8
 
 This repository contains the code for training a YOLOv8 model to detect traffic signs. The data used for training the model is sourced from the [Self Driving Cars Dataset](https://universe.roboflow.com/selfdriving-car-qtywx/self-driving-cars-lfjou/dataset/6) on Roboflow Universe.
 
